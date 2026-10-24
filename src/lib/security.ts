@@ -1,7 +1,7 @@
-const SECURITY_KEY = 'thomlol.security.v1'
+const SECURITY_KEY = 'thomlol.security.v2'
 const SESSION_KEY = 'thomlol.owner.session'
 
-export const DEFAULT_PIN = '271845'
+export const DEFAULT_PIN = '24735'
 
 let bootstrap: Promise<void> | null = null
 
